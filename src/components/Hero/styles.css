@@ -2,8 +2,9 @@
 .jumbotron {
     margin-bottom: 0;
     background: #021706;
-    background-image: url("./images/m_missing_cleavland.jpg");
+    background-image: url("./images/hero.png");
     background-repeat: no-repeat;
+    background-position: bottom left;
 }
 }
 
