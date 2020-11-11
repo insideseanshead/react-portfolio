@@ -9,7 +9,7 @@ export default function Contact() {
     <div id="contact">
       <div className="container">
         <div className="row">
-          <div className="col-4 offset-4">
+          <div className="col">
             <img id="profile_img" src={profile} />
           </div>
         </div>
@@ -36,7 +36,7 @@ export default function Contact() {
         </div>
         <div className="row mb-5" id="links">
           <div className="col">
-            <ul>
+            <ul className="justify-content-center">
                 <li>(415) 378-1824</li>
               <li>insideseanshead@gmail.com</li>
               <li>
