@@ -6,6 +6,7 @@ export default function Hero() {
     <div className="jumbotron jumbotron-fluid">
       <div className="container">
         <h1 className="display-4">Sean Morgan</h1>
+        <h3>Full Stack Web Developer</h3>
       </div>
     </div>
   );

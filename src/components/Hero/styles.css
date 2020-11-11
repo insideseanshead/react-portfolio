@@ -17,4 +17,9 @@
 
 .jumbotron h1 {
     color: #339983;
+    text-decoration: underline;
+}
+
+.jumbotron h3{
+    color: #0B5949;
 }
