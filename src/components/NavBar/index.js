@@ -5,7 +5,7 @@ import "./styles.css"
 export default function NavBar() {
   return (
     
-      <nav className="navbar navbar-expand-sm navbar-dark bg-dark">
+      <nav className="navbar navbar-expand-sm navbar-dark bg-dark ">
         <button
           className="navbar-toggler"
           type="button"
@@ -20,13 +20,13 @@ export default function NavBar() {
         <div className="collapse navbar-collapse" id="navbarNavDropdown">
           <ul className="navbar-nav">
             <li className="nav-item">
-            <Link to="/" className="nav-link">
+            <Link to="/portfolio" className="nav-link">
               Portfolio
             </Link>
             </li>
             <li className="nav-item">
-              <Link to="/contact" className="nav-link">
-                Info/Contact
+              <Link to="/" className="nav-link">
+                Contact
               </Link>
             </li>
             <li className="nav-item">

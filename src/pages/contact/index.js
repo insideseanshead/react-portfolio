@@ -4,6 +4,7 @@ import linkdin from "../../images/linkedin.png";
 import github from "../../images/github.png";
 import "./styles.css";
 
+
 export default function Contact() {
   return (
     <div id="contact">
@@ -40,7 +41,7 @@ export default function Contact() {
                 <li>(415) 378-1824</li>
               <li>insideseanshead@gmail.com</li>
               <li>
-                <a href="#">Resume</a>
+                <a href="https://drive.google.com/file/d/1WJ0RjLmokmPXnAiPWqg-sg4D83VAvQUs/view?usp=sharing" target="_blank">Resume</a>
               </li>
             </ul>
             <a class="mr-4" href="https://www.linkedin.com/in/sean-morgan-1398b4a1/" target="_blank">
