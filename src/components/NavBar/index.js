@@ -1,10 +1,11 @@
 import React from "react";
 import { Link } from "react-router-dom"
+import "./styles.css"
 
 export default function NavBar() {
   return (
     
-      <nav className="navbar navbar-expand-lg navbar-light bg-light">
+      <nav className="navbar navbar-expand-sm navbar-dark bg-dark">
         <button
           className="navbar-toggler"
           type="button"

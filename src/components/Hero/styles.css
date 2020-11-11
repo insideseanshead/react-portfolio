@@ -1,4 +1,20 @@
+@media (min-width: 768px){
 .jumbotron {
     margin-bottom: 0;
-    background:
+    background: #021706;
+    background-image: url("./images/m_missing_cleavland.jpg");
+    background-repeat: no-repeat;
+}
+}
+
+@media  (max-width: 767px){
+    .jumbotron{
+        margin-bottom: 0;
+        background-image: none;
+        background-color: #021706;
+    }
+}
+
+.jumbotron h1 {
+    color: #339983;
 }
