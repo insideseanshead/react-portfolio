@@ -5,6 +5,7 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Portfolio from "./pages/portfolio"
 import Contact from "./pages/contact"
 import NavBar from "./components/NavBar"
+import Footer from "./components/Footer"
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         </Router>
         
       </div>
+      <Footer />
     </div>
     
   );
