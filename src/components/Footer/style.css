@@ -1,5 +1,13 @@
 footer{
-    background-color: #30937C;
-    color: #0C5646;
+    background-color: #343A40;
+    color: #339983;
     margin-bottom: 0px;
+    bottom: 0px;
+    width: 100%;
+    border-top: solid #339983;
   }
+
+footer p{
+    padding:10px;
+    margin-bottom: 0;
+}
