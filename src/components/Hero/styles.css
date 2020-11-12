@@ -2,9 +2,9 @@
 .jumbotron {
     margin-bottom: 0;
     background: #021706;
-    background-image: url("./images/hero.png");
+    background-image: url("./images/hero.png"),url("./images/hero_right.png");
     background-repeat: no-repeat;
-    background-position: bottom left;
+    background-position: bottom left,bottom right;
 }
 }
 
