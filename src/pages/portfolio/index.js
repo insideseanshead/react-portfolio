@@ -28,7 +28,7 @@ export default function index() {
         </div>
       </div>
       <div className="card float-left m-2">
-        <img src={makeMyDate} className="card-img-top" alt="Gerome the Gnome Logo" />
+        <img src={makeMyDate} className="card-img-top" alt="Make My Date Logo" />
         <div className="card-body">
           <h5 className="card-title">Make My Date</h5>
           <p className="card-text">
@@ -44,7 +44,7 @@ export default function index() {
         </div>
       </div>
       <div className="card float-left m-2">
-        <img src={directory} className="card-img-top" alt="Gerome the Gnome Logo" />
+        <img src={directory} className="card-img-top" alt="Employee Directory Screen Shot" />
         <div className="card-body">
           <h5 className="card-title">Employee Directory</h5>
           <p className="card-text">
@@ -60,7 +60,7 @@ export default function index() {
         </div>
       </div>
       <div className="card float-left m-2">
-        <img src={schedule} className="card-img-top" alt="Gerome the Gnome Logo" />
+        <img src={schedule} className="card-img-top" alt="Day Planner Screen Shot" />
         <div className="card-body">
           <h5 className="card-title">Day Planner</h5>
           <p className="card-text">
@@ -76,7 +76,7 @@ export default function index() {
         </div>
       </div>
       <div className="card float-left m-2">
-        <img src={readMe} className="card-img-top" alt="Gerome the Gnome Logo" />
+        <img src={readMe} className="card-img-top" alt="Snippit of code" />
         <div className="card-body">
           <h5 className="card-title">ReadMe Generator</h5>
           <p className="card-text">
@@ -88,7 +88,7 @@ export default function index() {
         </div>
       </div>
       <div className="card float-left m-2">
-        <img src={quiz} className="card-img-top" alt="Gerome the Gnome Logo" />
+        <img src={quiz} className="card-img-top" alt="Image of quiz question" />
         <div className="card-body">
           <h5 className="card-title">Quiz Game</h5>
           <p className="card-text">

@@ -11,7 +11,7 @@ export default function Contact() {
       <div className="container">
         <div className="row">
           <div className="col">
-            <img id="profile_img" src={profile} />
+            <img id="profile_img" src={profile} alt="Profile picture of Sean Morgan"/>
           </div>
         </div>
         <div className="row">
