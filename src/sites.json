@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "image": "wondir",
+        "title": "Wondir",
+        "description": "NPC Generator for Dungeons and Dragons.",
+        "deployed": "https://wandir-front.herokuapp.com/",
+        "github": "https://github.com/asmarcd/wandir-front-end"
+    },
+    {
+        "id": 2,
+        "image": "gerome",
+        "title": "Gerome the Gnome",
+        "description": "NPC Generator for Dungeons and Dragons.",
+        "deployed": "https://gerome-the-gnome.herokuapp.com/",
+        "github": "https://github.com/insideseanshead/gerome-the-gnome"
+    },
+    {
+        "id": 3,
+        "image": "makeMyDate",
+        "title": "Make my Date",
+        "description": "Dating app that selects random night out you and that special someone.",
+        "deployed": "https://mfallesen.github.io/plannerly/",
+        "github": "https://github.com/mfallesen/plannerly"
+    },
+    {
+        "id": 4,
+        "image": "directory",
+        "title": "Employee Directory",
+        "description": "A directory that builds itself using an API database and can be sorted and searched through.",
+        "deployed": "https://sean-employee-directory.herokuapp.com/",
+        "github": "https://github.com/insideseanshead/employee-directory"
+    },
+    {
+        "id": 5,
+        "image": "schedule",
+        "title": "Day Planner",
+        "description": "A scheduling app that color codes time of day and when user has something scheduled.",
+        "deployed": "https://insideseanshead.github.io/Day-Planner/",
+        "github": "https://github.com/insideseanshead/Day-Planner"
+    },
+    {
+        "id": 6,
+        "image": "readMe",
+        "title": "ReadMe Generator",
+        "description": "A node application to help developers write readMe documents.",
+        "github": "https://github.com/insideseanshead/readmeGenerator"
+    }
+]

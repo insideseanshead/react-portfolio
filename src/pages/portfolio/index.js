@@ -6,6 +6,7 @@ import directory from "../../images/directory.png"
 import readMe from "../../images/readMe.png"
 import schedule from "../../images/schedule.png"
 import quiz from "../../images/quiz.png"
+import wondir from "../../images/wondir.png"
 
 export default function index() {
   return (
