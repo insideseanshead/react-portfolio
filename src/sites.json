@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image": "https://sean-morgan-portfolio.herokuapp.com/static/media/gerome.e66bc659.jpg",
+        "image": "../../images/wondir.png",
         "alt": "Wondir Logo",
         "title": "Wondir",
         "description": "NPC Generator for Dungeons and Dragons.",
