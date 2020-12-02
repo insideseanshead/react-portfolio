@@ -44,7 +44,7 @@ export default function Contact() {
                 <a href="https://drive.google.com/file/d/1WJ0RjLmokmPXnAiPWqg-sg4D83VAvQUs/view?usp=sharing" target="_blank">Resume</a>
               </li>
             </ul>
-            <a class="mr-4" href="https://www.linkedin.com/in/sean-morgan-1398b4a1/" target="_blank">
+            <a class="mr-4" href="https://www.linkedin.com/in/sean-victor-morgan/" target="_blank">
               <img src={linkdin} />
             </a>
             <a href="https://github.com/insideseanshead" target="_blank">

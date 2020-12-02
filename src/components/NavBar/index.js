@@ -41,7 +41,7 @@ export default function NavBar() {
             <li className="nav-item">
               <a
                 className="nav-link"
-                href="https://www.linkedin.com/in/sean-morgan-1398b4a1/"
+                href="https://www.linkedin.com/in/sean-victor-morgan/"
                 target="_blank"
               >
                 LinkedIn
