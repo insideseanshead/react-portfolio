@@ -1,22 +1,47 @@
-import React from 'react'
-import "./styles.css"
+import React from "react";
+import "./style.css";
+import sites from "../../sites.json";
+import wondir from "../../images/wondir.png"
 
 export default function WebsiteCard(props) {
-    return (
-        <div className="card float-left m-2">
-        <img src={props.image} className="card-img-top" alt={props.alt} />
+  return (
+    <div className="row justify-content-center">
+      <div className="card float-left m-2">
+        <img src={sites[0].image} className="card-img-top" alt={sites[0].alt} />
         <div className="card-body">
-          <h5 className="card-title">{props.title}</h5>
-          <p className="card-text">
-            {props.description}
-          </p>
-          <a href={props.depolyed} className="btn btn-primary mr-3" target="_blank">
+          <h5 className="card-title">{sites[0].title}</h5>
+          <p className="card-text">{sites[0].description}</p>
+          <a
+            href={sites[0].depolyed}
+            className="btn btn-primary mr-3"
+            target="_blank"
+          >
             Deployed Site
           </a>
-          <a href={props.github} className="btn btn-primary" target="_blank">
+          <a href={sites[0].github} className="btn btn-primary" target="_blank">
             Github
           </a>
         </div>
       </div>
-    )
+
+
+      <div className="card float-left m-2">
+        <img src={sites[0].image} className="card-img-top" alt={sites[0].alt} />
+        <div className="card-body">
+          <h5 className="card-title">{sites[0].title}</h5>
+          <p className="card-text">{sites[0].description}</p>
+          <a
+            href={sites[0].depolyed}
+            className="btn btn-primary mr-3"
+            target="_blank"
+          >
+            Deployed Site
+          </a>
+          <a href={sites[0].github} className="btn btn-primary" target="_blank">
+            Github
+          </a>
+        </div>
+      </div>
+    </div>
+  );
 }

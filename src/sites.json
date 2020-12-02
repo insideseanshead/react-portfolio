@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image": "wondir",
+        "image": "https://sean-morgan-portfolio.herokuapp.com/static/media/gerome.e66bc659.jpg",
         "alt": "Wondir Logo",
         "title": "Wondir",
         "description": "NPC Generator for Dungeons and Dragons.",
@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "image": "gerome",
+        "image": "https://sean-morgan-portfolio.herokuapp.com/static/media/gerome.e66bc659.jpg",
         "alt": "Geomore the Gnome Logo",
         "title": "Gerome the Gnome",
         "description": "NPC Generator for Dungeons and Dragons.",
@@ -19,7 +19,7 @@
     },
     {
         "id": 3,
-        "image": "makeMyDate",
+        "image": "https://sean-morgan-portfolio.herokuapp.com/static/media/makeMyDate.e7cab47d.png",
         "alt": "Make My Date Logo",
         "title": "Make my Date",
         "description": "Dating app that selects random night out you and that special someone.",
