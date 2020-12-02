@@ -8,6 +8,8 @@ import schedule from "../../images/schedule.png"
 import quiz from "../../images/quiz.png"
 import wondir from "../../images/wondir.png"
 import WebsiteCard from "../../components/WebsiteCard";
+import sites from "../../sites.json";
+
 
 export default function index() {
   return (
