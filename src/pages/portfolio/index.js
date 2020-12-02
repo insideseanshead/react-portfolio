@@ -13,6 +13,22 @@ export default function index() {
     <div className="container mt-3 mb-5">
       <div className="row justify-content-center">
       <div className="card float-left m-2">
+        <img src={wondir} className="card-img-top" alt="Wondir" />
+        <div className="card-body">
+          <h5 className="card-title">Wondir</h5>
+          <p className="card-text">
+            Journaling app that combines geo location with journal entries and image gallery.
+          </p>
+          <a href="https://wandir-front.herokuapp.com/" className="btn btn-primary mr-3" target="_blank">
+            Deployed Site
+          </a>
+          
+          <a href="https://github.com/asmarcd/wandir-front-end" className="btn btn-primary" target="_blank">
+            Github
+          </a>
+        </div>
+      </div>
+      <div className="card float-left m-2">
         <img src={gerome} className="card-img-top" alt="Gerome the Gnome Logo" />
         <div className="card-body">
           <h5 className="card-title">Gerome the Gnome</h5>
@@ -88,22 +104,7 @@ export default function index() {
           </a>
         </div>
       </div>
-      <div className="card float-left m-2">
-        <img src={quiz} className="card-img-top" alt="Image of quiz question" />
-        <div className="card-body">
-          <h5 className="card-title">Quiz Game</h5>
-          <p className="card-text">
-            A fun quiz game to test your batman Knowledge
-          </p>
-          <a href="https://insideseanshead.github.io/Quiz/" className="btn btn-primary mr-3" target="_blank">
-            Deployed Site
-          </a>
-          
-          <a href="https://github.com/insideseanshead/Quiz" className="btn btn-primary" target="_blank">
-            Github
-          </a>
-        </div>
-      </div>
+      
       
       </div>
     </div>
