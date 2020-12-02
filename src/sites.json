@@ -1,7 +1,8 @@
 [
     {
         "id": 1,
-        "image": "wondir",
+        "image": "https://sean-morgan-portfolio.herokuapp.com/static/media/wondir.a6357d9d.png",
+        "alt": "Wondir Logo",
         "title": "Wondir",
         "description": "NPC Generator for Dungeons and Dragons.",
         "deployed": "https://wandir-front.herokuapp.com/",
@@ -9,7 +10,8 @@
     },
     {
         "id": 2,
-        "image": "gerome",
+        "image": "https://sean-morgan-portfolio.herokuapp.com/static/media/gerome.e66bc659.jpg",
+        "alt": "Geomore the Gnome Logo",
         "title": "Gerome the Gnome",
         "description": "NPC Generator for Dungeons and Dragons.",
         "deployed": "https://gerome-the-gnome.herokuapp.com/",
@@ -17,7 +19,8 @@
     },
     {
         "id": 3,
-        "image": "makeMyDate",
+        "image": "https://sean-morgan-portfolio.herokuapp.com/static/media/makeMyDate.e7cab47d.png",
+        "alt": "Make My Date Logo",
         "title": "Make my Date",
         "description": "Dating app that selects random night out you and that special someone.",
         "deployed": "https://mfallesen.github.io/plannerly/",
@@ -25,7 +28,8 @@
     },
     {
         "id": 4,
-        "image": "directory",
+        "image": "https://sean-morgan-portfolio.herokuapp.com/static/media/directory.528d43ed.png",
+        "alt": "Employee directory screen shot",
         "title": "Employee Directory",
         "description": "A directory that builds itself using an API database and can be sorted and searched through.",
         "deployed": "https://sean-employee-directory.herokuapp.com/",
@@ -33,7 +37,8 @@
     },
     {
         "id": 5,
-        "image": "schedule",
+        "image": "https://sean-morgan-portfolio.herokuapp.com/static/media/schedule.cdf786e2.png",
+        "alt": "Day planner screen shot",
         "title": "Day Planner",
         "description": "A scheduling app that color codes time of day and when user has something scheduled.",
         "deployed": "https://insideseanshead.github.io/Day-Planner/",
@@ -41,7 +46,8 @@
     },
     {
         "id": 6,
-        "image": "readMe",
+        "image": "https://sean-morgan-portfolio.herokuapp.com/static/media/readMe.73137051.png",
+        "alt": "ReadMe generator screen shot",
         "title": "ReadMe Generator",
         "description": "A node application to help developers write readMe documents.",
         "github": "https://github.com/insideseanshead/readmeGenerator"
