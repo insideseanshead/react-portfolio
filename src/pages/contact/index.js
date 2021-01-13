@@ -53,7 +53,7 @@ export default function Contact() {
           <div className="col">
             <ul className="justify-content-center">
                 <li>(415) 378-1824</li>
-              <li>insideseanshead@gmail.com</li>
+              <li>seanmorgandesigns@gmail.com</li>
               <li>
                 <a href="https://drive.google.com/file/d/1WJ0RjLmokmPXnAiPWqg-sg4D83VAvQUs/view?usp=sharing" target="_blank">Resume</a>
               </li>
