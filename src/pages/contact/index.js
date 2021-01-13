@@ -35,6 +35,20 @@ export default function Contact() {
             {/* </div> */}
           </div>
         </div>
+        <div className="row">
+          <div className="col-12">
+            <h4>Proficiencies</h4>
+            <ul className="techList">
+              <li>Html/css</li>
+              <li>JavaScript</li>
+              <li>MySQL and MongoDB</li>
+              <li>Bootstrap</li>
+              <li>React</li>
+              <li>Node.js</li>
+            </ul>
+            <hr />
+          </div>
+        </div>
         <div className="row mb-5" id="links">
           <div className="col">
             <ul className="justify-content-center">
