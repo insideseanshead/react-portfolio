@@ -13,7 +13,7 @@ As I continue to develop my skills I need a website that can show off those skil
 
 ## Deployed Site
     
-https://sean-morgan-portfolio.herokuapp.com/
+https://seanmorgandesigns.com/
     
 ![Home Page](./assets/portfolio-contact.PNG)
 
