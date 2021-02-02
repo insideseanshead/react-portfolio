@@ -6,18 +6,18 @@ const sites = [
   {
     id: 1,
     image:
-      "https://sean-morgan-portfolio.herokuapp.com/static/media/directory.528d43ed.png",
-    alt: "Employee directory screen shot",
-    title: "Employee Directory",
+      "https://seanmorgandesigns.com/static/images/gallery.jpg",
+    alt: "Illustration Gallery",
+    title: "Reactive Image Gallery App",
     description:
-      "A directory that builds itself using an API database and can be sorted and searched through.",
-    deployed: "https://sean-employee-directory.herokuapp.com/",
-    github: "https://github.com/insideseanshead/employee-directory",
+      "An image gallery app that uses Cloudinary, React and Flex Box to dynamically create load images.",
+    deployed: "https://sean-morgan-illustration.herokuapp.com/",
+    github: "https://github.com/insideseanshead/illustration-portfolio",
   },
   {
     id: 2,
     image:
-      "https://sean-morgan-portfolio.herokuapp.com/static/media/wondir.a6357d9d.png",
+    "https://seanmorgandesigns.com/static/images/wondir.png",
     alt: "Wondir Logo",
     title: "Wondir",
     description: "NPC Generator for Dungeons and Dragons.",
@@ -27,7 +27,7 @@ const sites = [
   {
     id: 3,
     image:
-      "https://sean-morgan-portfolio.herokuapp.com/static/media/gerome.e66bc659.jpg",
+    "https://seanmorgandesigns.com/static/images/gerome.jpg",
     alt: "Geomore the Gnome Logo",
     title: "Gerome the Gnome",
     description: "NPC Generator for Dungeons and Dragons.",
@@ -37,7 +37,7 @@ const sites = [
   {
     id: 4,
     image:
-      "https://sean-morgan-portfolio.herokuapp.com/static/media/makeMyDate.e7cab47d.png",
+    "https://seanmorgandesigns.com/static/images/makeMyDate.png",
     alt: "Make My Date Logo",
     title: "Make my Date",
     description:
@@ -48,7 +48,7 @@ const sites = [
   {
     id: 5,
     image:
-      "https://sean-morgan-portfolio.herokuapp.com/static/media/schedule.cdf786e2.png",
+    "https://seanmorgandesigns.com/static/images/schedule.png",
     alt: "Day planner screen shot",
     title: "Day Planner",
     description:
@@ -59,7 +59,7 @@ const sites = [
   {
     id: 6,
     image:
-      "https://sean-morgan-portfolio.herokuapp.com/static/media/readMe.73137051.png",
+    "https://seanmorgandesigns.com/static/images/readMe.png",
     alt: "ReadMe generator screen shot",
     title: "ReadMe Generator",
     description:
