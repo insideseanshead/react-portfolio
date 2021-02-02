@@ -11,7 +11,7 @@ const sites = [
     title: "Reactive Image Gallery App",
     description:
       "An image gallery app that uses Cloudinary, React and Flex Box to dynamically create load images.",
-    deployed: "https://sean-morgan-illustration.herokuapp.com/",
+    deployed: "https://seanmorganillustration.com/",
     github: "https://github.com/insideseanshead/illustration-portfolio",
   },
   {
